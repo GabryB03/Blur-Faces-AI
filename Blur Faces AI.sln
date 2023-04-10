@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blur Faces AI", "Blur Faces AI.csproj", "{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Debug|x64.ActiveCfg = Debug|x64
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Debug|x64.Build.0 = Debug|x64
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Release|x64.ActiveCfg = Release|x64
+		{9B3F64E6-B064-4996-AC7B-A5F5E6B1605E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F31B5E1-651F-46F7-999C-ED94FC489314}
+	EndGlobalSection
+EndGlobal
